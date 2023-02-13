@@ -1,0 +1,13 @@
+{
+  "currency": "USD",
+  "data": [
+    {
+      "id": 23,
+      "title": "My Product",
+      "short_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "original_price": 29.98,
+      "discounted_price": 27.99,
+      "image": "https://cdn.shopify.com/s/files/1/0030/2048/8817/products/Gallop-Blue-Cotton-T-shirt-SDL168834699-1-6a0c1_720x.jpg?v=1585575461"
+    }
+  ]
+}
